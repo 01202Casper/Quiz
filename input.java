@@ -38,7 +38,7 @@ public class input {
     }
     
     public String getAlat() {
-        return alamat;
+        return alat;
     }
     
     public String getBahan() {
